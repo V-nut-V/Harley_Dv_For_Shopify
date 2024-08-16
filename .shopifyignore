@@ -1,4 +1,5 @@
-package.json
-yarn.lock
 node_modules/
 css/
+package.json
+package-lock.json
+yarn.lock
